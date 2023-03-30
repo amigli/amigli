@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 I'm studying at University of Salerno.
-🔭 I’m currently working on privacy with Artificial Intelligence.
+💻 I'm studying at University of Salerno.<br>
+🔭 I’m currently working on privacy with Artificial Intelligence.<br>
 📫 How to reach me: miglinoannalaura@gmail.com
