@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Annalaura Miglino. 👋
 
 <!--
 **amigli/amigli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💻 I'm studying at University of Salerno.
+🔭 I’m currently working on privacy with Artificial Intelligence.
+📫 How to reach me: miglinoannalaura@gmail.com
