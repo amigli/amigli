@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 💻 I'm studying at University of Salerno.<br>
 🔭 I’m currently working on privacy with Artificial Intelligence.<br>
 📫 How to reach me: miglinoannalaura@gmail.com
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amigli&count_private=true&inlcude_all_commits=true) 
