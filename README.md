@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Annalaura</h1>
-<h3 align="center">I am a Data Science & Machine Learning student.</h3>
+<h3 align="center">I am a **PhD student** in Computer Science at University of Salerno.</h3>
 
-- 💻 I’m currently studying at **University of Salerno.**
+- 🎓 I graduated in Computer Science (curriculum Data Science & Machine Learning) at University of Salerno.
 
 - 📫 How to reach me **miglinoannalaura@gmail.com**
 
