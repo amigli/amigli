@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Annalaura</h1>
-<h3 align="center">I am a **PhD student** in Computer Science at University of Salerno.</h3>
+<h3 align="center">I am a PhD student in Computer Science at University of Salerno.</h3>
 
 - 🎓 I graduated in Computer Science (curriculum Data Science & Machine Learning) at University of Salerno.
 
